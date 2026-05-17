@@ -1,4 +1,3 @@
-My First Project 🚀
 This repository contains my Data Science and Statistics practice notebooks created during my learning journey.
 The notebooks include statistical concepts, Python implementations, and hypothesis testing examples using libraries like NumPy and SciPy.
 📂 Files Included
